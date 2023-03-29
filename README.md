@@ -20,7 +20,7 @@ ___________________________________________________
 
 - SAYA TIDAK BERTANGGUNG JAWAB ATAS KELAKUAN ANDA
 
-- PYTHON2
+- PYTHON2 √
 
 - NO ROOT √
 
