@@ -16,10 +16,13 @@
 
 
 ___________________________________________________
+                                                   
 
+- SAYA TIDAK BERTANGGUNG JAWAB ATAS KELAKUAN ANDA
 
-- Saya Tidak  Bertanggung Jawab Atas Kelakuan Anda
-
-- python2
+- PYTHON2
 
 - NO ROOT √
+
+
+____________________________________________________
