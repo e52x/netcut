@@ -12,20 +12,15 @@
 - git clone https://github.com/e52x/pingflood
 - cd pingflood
 - python2 main.py
-
-
-
-
-
-
-
-
-> 
-
-
-
-
-
+>
+>
+>
+>
+>
+>
+>
+>
+>
 
 - Saya Tidak  Bertanggung Jawab Atas Kelakuan Anda
 
