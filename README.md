@@ -1,5 +1,6 @@
 - Script Ini  bisa merusak user wifi atau router wifi
 
+![image](https://user-images.githubusercontent.com/73192109/228417122-efd3d912-1202-41ae-aae2-fb8c2853bab1.png)
 
 - Di Sarankan Untuk Berhati hati Dengan Tools Ini
 
