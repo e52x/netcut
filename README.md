@@ -7,11 +7,17 @@
 
 
 
+
 - Tools Ini Tidak Perlu Ngeroot
+
+
+
+
+
 
 
 - Saya Tidak  Bertanggung Jawab Atas Kelakuan Anda
 
 
 
-& 999MS    TOLONG DI BERHENTIKAN TOOLS NYA
+> PYTHON2 
