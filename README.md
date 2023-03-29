@@ -6,12 +6,12 @@
 
 # INSTALL SCRIPT
 
-$ pkg update && apt upgrade 
-> pkg install git
-> pkg install python2
-> git clone https://github.com/e52x/pingflood
-> cd pingflood
-> python2 main.py
+- pkg update && apt upgrade 
+- pkg install git
+- pkg install python2
+- git clone https://github.com/e52x/pingflood
+- cd pingflood
+- python2 main.py
 
 
 
