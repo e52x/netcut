@@ -1,7 +1,7 @@
-~ Script Ini  bisa merusak user wifi atau router wifi
+- Script Ini  bisa merusak user wifi atau router wifi
 
 
-~ Di Sarankan Untuk Berhati hati Dengan Tools Ini
+Di Sarankan Untuk Berhati hati Dengan Tools Ini
 
 
 
