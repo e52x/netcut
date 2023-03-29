@@ -15,12 +15,7 @@
 
 
 
-
-
-
-> BERHATI HATI LAH X_X
-
-
+_
 
 
 - Saya Tidak  Bertanggung Jawab Atas Kelakuan Anda
