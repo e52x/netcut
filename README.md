@@ -18,7 +18,6 @@
 
 
 
-- Tools Ini Tidak Perlu Ngeroot
 
 
 
@@ -30,6 +29,6 @@
 
 - Saya Tidak  Bertanggung Jawab Atas Kelakuan Anda
 
-
-
 - python2
+
+- NO ROOT √
